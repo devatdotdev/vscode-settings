@@ -1,0 +1,99 @@
+{
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "debug.console.fontSize": 16,
+    "markdown.preview.fontSize": 16,
+    "emmet.includeLanguages": {
+        //"javascript": "javascriptreact"
+        "liquid": "html"
+    },
+    "emmet.syntaxProfiles": {
+        // "javascript": "jsx"
+        //"javascript": "javascriptreact"
+        // "javascript": "html"
+    },
+    "editor.formatOnSave": true,
+    "editor.fontWeight": "bold",
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "DotDev Neon",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "prettier.singleQuote": true,
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "php.validate.enable": true,
+    "php.validate.executablePath": "C:\\tools\\php\\php.exe",
+    "php.validate.run": true,
+    "window.zoomLevel": 1,
+    "unibeautify.defaultConfig": "C:\\Users\\jorda\\AppData\\Roaming\\Code\\User\\unibeautifyrc.json",
+    "liquid.format": true,
+    "liquid.rules": {
+        "ignore": [
+            {
+                "type": "liquid",
+                "begin": "comment",
+                "end": "endcomment"
+            },
+            {
+                "type": "html",
+                "begin": "script",
+                "end": "script"
+            },
+            {
+                "type": "html",
+                "begin": "style",
+                "end": "style"
+            }
+        ],
+        "html": {
+            "correct": true,
+            "force_attribute": false,
+            "braces": false,
+            "preserve": 2,
+            "unformatted": false
+        },
+        "js": {
+            "preserve": 1,
+            "method_chain": 0,
+            "quote_convert": "none",
+            "format_array": "indent",
+            "format_object": "indent",
+            "braces": false,
+            "no_semicolon": false,
+            "brace_block": true
+        },
+        "scss": {
+            "css_insert_lines": true,
+            "preserve": 2,
+            "braces": false,
+            "brace_block": true
+        },
+        "css": {
+            "css_insert_lines": true,
+            "preserve": 2,
+            "braces": false,
+            "brace_block": true
+        },
+        "json": {
+            "preserve": 0,
+            "braces": false,
+            "brace_block": true,
+            "no_semicolon": true
+        }
+    },
+    "[html]": {
+        "editor.defaultFormatter": "sissel.shopify-liquid"
+    },
+    "sync.gist": "f7ba015892fe74e3e5d8d03d3e63fecc",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.forceDownload": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.forceUpload": false,
+    "sync.quietSync": false,
+    "typescript.locale": "en"
+}

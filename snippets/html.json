@@ -1,0 +1,14 @@
+{
+	"": {
+		"prefix": "schema-text",
+		"body": [
+			"    {\r",
+			"      \"type\": \"text\",\r",
+			"      \"id\": \"title\",\r",
+			"      \"label\": \"Heading\",\r",
+			"      \"default\": \"Trending Products\"\r",
+			"    },"
+		],
+		"description": ""
+	}
+}
